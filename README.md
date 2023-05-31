@@ -2,3 +2,4 @@
 This project trains different machine learning algorithms and compares their accuracy for the given datasets. Datasets are the news articles
 collected from kaggle .Massive amount of fake news get circulated in social media which misleads people and community and spread hate in the
 society. This machine learning project aims to identify these fake news. Accuracy scores of different ML algo have been plotted.
+We have collected two datasets named Fake, which consists fake news articles and another named True which contains true news articles from diverse subjects.
